@@ -45,23 +45,23 @@ The site features scroll-triggered animations, parallax depth, pinned sections, 
 
 ##  Features
 
-👉 **SplitText Animations** — Impactful text reveals using GSAP's SplitText for dynamic intros and section highlights.
+ **SplitText Animations** — Impactful text reveals using GSAP's SplitText for dynamic intros and section highlights.
 
-👉 **ScrollTrigger Effects** — Scroll-based animation control and timeline syncing with GSAP's ScrollTrigger.
+**ScrollTrigger Effects** — Scroll-based animation control and timeline syncing with GSAP's ScrollTrigger.
 
-👉 **Parallax Scrolling** — Immersive depth created through smooth parallax effects that respond to user scroll.
+ **Parallax Scrolling** — Immersive depth created through smooth parallax effects that respond to user scroll.
 
-👉 **Pinned Sections** — Sections locked in view while content animates for engaging scroll storytelling.
+ **Pinned Sections** — Sections locked in view while content animates for engaging scroll storytelling.
 
-👉 **Scroll-Synced Video Playback** — Video progress synced to scroll position for cinematic storytelling.
+**Scroll-Synced Video Playback** — Video progress synced to scroll position for cinematic storytelling.
 
-👉 **Image Masking Effects** — Scroll-triggered pins and masks for visually striking image transitions.
+ **Image Masking Effects** — Scroll-triggered pins and masks for visually striking image transitions.
 
-👉 **Custom Carousel** — Fully customized animated carousel with multiple navigation options and smooth slide transitions.
+ **Custom Carousel** — Fully customized animated carousel with multiple navigation options and smooth slide transitions.
 
-👉 **Seamless Timeline Animations** — Smooth animation timelines spanning across multiple sections.
+ **Seamless Timeline Animations** — Smooth animation timelines spanning across multiple sections.
 
-👉 **Responsive Design** — Fluid UI and adaptive animations across all screen sizes using `react-responsive`.
+**Responsive Design** — Fluid UI and adaptive animations across all screen sizes using `react-responsive`.
 
 ---
 
