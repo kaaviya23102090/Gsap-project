@@ -106,7 +106,7 @@ npm run build
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 Ai-powered/
@@ -124,7 +124,7 @@ Ai-powered/
 
 ---
 
-## 👩‍💻 Author
+## Author
 
 **Kaaviya**
 - GitHub: [@kaaviya23102090](https://github.com/kaaviya23102090)
