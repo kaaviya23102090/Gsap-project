@@ -1,17 +1,8 @@
 # Gsap-project
-<div align="center">
-  <br />
-    <img src="public/readme/hero.png" alt="Project Banner">
-  <br />
 
-  <div>
-    <img src="https://img.shields.io/badge/-React-blue?style=for-the-badge&logo=react&logoColor=white" />
-    <img src="https://img.shields.io/badge/-GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
   </div>
 
-  <h3 align="center">🍹 Stunning GSAP Cocktail Website</h3>
+  <h3 align="center">Stunning GSAP Cocktail Website</h3>
 
   <div align="center">
     A modern, scroll-driven cocktail experience built with React, GSAP, and Tailwind CSS —
@@ -21,18 +12,18 @@
 
 ---
 
-## 📋 Table of Contents
+## Table of Contents
 
-1. 🤖 [Introduction](#introduction)
-2. ⚙️ [Tech Stack](#tech-stack)
-3. 🔋 [Features](#features)
-4. 🤸 [Quick Start](#quick-start)
-5. 📁 [Project Structure](#project-structure)
-6. 👩‍💻 [Author](#author)
+1.  [Introduction](#introduction)
+2.  [Tech Stack](#tech-stack)
+3.  [Features](#features)
+4.  [Quick Start](#quick-start)
+5.  [Project Structure](#project-structure)
+6.  [Author](#author)
 
 ---
 
-## 🤖 Introduction
+##  Introduction
 
 A visually stunning GSAP-powered cocktail landing page built using **React** and **Tailwind CSS**. This project showcases advanced web animation techniques including scroll-driven effects, cinematic video playback, and dynamic text reveals — all delivered through a smooth, responsive user experience.
 
@@ -40,7 +31,7 @@ The site features scroll-triggered animations, parallax depth, pinned sections, 
 
 ---
 
-## ⚙️ Tech Stack
+##  Tech Stack
 
 - **[React](https://react.dev/)** — Declarative JavaScript library for building interactive, component-based UIs with smooth state management and reusable logic.
 
@@ -52,7 +43,7 @@ The site features scroll-triggered animations, parallax depth, pinned sections, 
 
 ---
 
-## 🔋 Features
+##  Features
 
 👉 **SplitText Animations** — Impactful text reveals using GSAP's SplitText for dynamic intros and section highlights.
 
@@ -74,7 +65,7 @@ The site features scroll-triggered animations, parallax depth, pinned sections, 
 
 ---
 
-## 🤸 Quick Start
+##  Quick Start
 
 Follow these steps to set up the project locally on your machine.
 
